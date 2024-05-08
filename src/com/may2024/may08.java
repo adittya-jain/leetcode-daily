@@ -2,6 +2,8 @@ package com.may2024;
 
 import java.util.Arrays;
 
+/* 506. Relative Ranks */
+
 public class may08 {
     public static void main(String[] args) {
         int[] arr= {5,4,3,2,1};
