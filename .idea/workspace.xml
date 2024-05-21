@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856ec73b-1875-42c2-8623-a6f60760b971" name="Changes" comment="09 may solution done" />
+    <list default="true" id="856ec73b-1875-42c2-8623-a6f60760b971" name="Changes" comment="continuing the streak  &#10;DAY - 50 completed">
+      <change afterPath="$PROJECT_DIR$/src/com/may2024/may21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +113,8 @@
       <updated>1715193275167</updated>
       <workItem from="1715193276202" duration="2547000" />
       <workItem from="1715286571149" duration="2029000" />
+      <workItem from="1716234039504" duration="132000" />
+      <workItem from="1716287607076" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="08 may solution done">
       <option name="closed" value="true" />
@@ -143,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715288022943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="continuing the streak  &#10;DAY - 50 completed">
+      <option name="closed" value="true" />
+      <created>1716234160330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716234160330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="08 may solution done" />
     <MESSAGE value="09 may solution done" />
-    <option name="LAST_COMMIT_MESSAGE" value="09 may solution done" />
+    <MESSAGE value="continuing the streak  &#10;DAY - 50 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuing the streak  &#10;DAY - 50 completed" />
   </component>
 </project>
